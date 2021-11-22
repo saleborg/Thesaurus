@@ -1,0 +1,15 @@
+C:\Code\Thesaurus\Thesaurus\bin\Debug\net6.0\Thesaurus.exe
+C:\Code\Thesaurus\Thesaurus\bin\Debug\net6.0\Thesaurus.deps.json
+C:\Code\Thesaurus\Thesaurus\bin\Debug\net6.0\Thesaurus.runtimeconfig.json
+C:\Code\Thesaurus\Thesaurus\bin\Debug\net6.0\Thesaurus.dll
+C:\Code\Thesaurus\Thesaurus\bin\Debug\net6.0\ref\Thesaurus.dll
+C:\Code\Thesaurus\Thesaurus\bin\Debug\net6.0\Thesaurus.pdb
+C:\Code\Thesaurus\Thesaurus\obj\Debug\net6.0\Thesaurus.csproj.AssemblyReference.cache
+C:\Code\Thesaurus\Thesaurus\obj\Debug\net6.0\Thesaurus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Thesaurus\Thesaurus\obj\Debug\net6.0\Thesaurus.AssemblyInfoInputs.cache
+C:\Code\Thesaurus\Thesaurus\obj\Debug\net6.0\Thesaurus.AssemblyInfo.cs
+C:\Code\Thesaurus\Thesaurus\obj\Debug\net6.0\Thesaurus.csproj.CoreCompileInputs.cache
+C:\Code\Thesaurus\Thesaurus\obj\Debug\net6.0\Thesaurus.dll
+C:\Code\Thesaurus\Thesaurus\obj\Debug\net6.0\ref\Thesaurus.dll
+C:\Code\Thesaurus\Thesaurus\obj\Debug\net6.0\Thesaurus.pdb
+C:\Code\Thesaurus\Thesaurus\obj\Debug\net6.0\Thesaurus.genruntimeconfig.cache
